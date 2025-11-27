@@ -19,12 +19,12 @@
 </div>
       
 <div align="center">
-  <img height=180 align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=JoaoPHS&show_icons=true&count_private=true&rank_icon=github&text_color=ffffff&theme=transparent&cache_seconds=30&font=Iosevka"/>
+  <img height=180 align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=JoaoPHS&show_icons=true&count_private=true&rank_icon=github&text_color=ffffff&theme=transparent&cache_seconds=1&font=Iosevka"/>
   
-  <img height=180 align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPHS&layout=compact&font=Iosevka&langs_count=16&text_color=FFFFFF&theme=transparent&cache_seconds=30"/>
+  <img height=180 align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPHS&layout=compact&font=Iosevka&langs_count=16&text_color=FFFFFF&theme=transparent&cache_seconds=1"/>
   <br>
   <br>
-  <img align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api?username=JoaoPHS&show_icons=true&hide=contribs,prs&text_color=FFFFFF&theme=transparent&cache_seconds=30"/>
+  <img align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api?username=JoaoPHS&show_icons=true&hide=contribs,prs&text_color=FFFFFF&theme=transparent&cache_seconds=1"/>
 </div>
 
 <br>
