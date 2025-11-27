@@ -24,7 +24,18 @@
   <img height=180 align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPHS&layout=compact&font=Iosevka&langs_count=16&text_color=FFFFFF&theme=transparent&cache_seconds=30"/>
   <br>
   <br>
-  <img align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api?username=JoaoPHS&show_icons=true&hide=contribs,prs&cache_seconds=86400&text_color=FFFFFF&theme=transparent&cache_seconds=30"/>
+  <img align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api?username=JoaoPHS&show_icons=true&hide=contribs,prs&text_color=FFFFFF&theme=transparent&cache_seconds=30"/>
+</div>
+
+<br>
+<div align="center">
+  <img src="https://v0-git-hub-streak-score-card-phi.vercel.app/api/card-with-avatar?username=JoaoPHS&theme=%7B%22backgroundColor%22%3A%22%2300000000%22%2C%22textColor%22%3A%22%23FFFFFF%22%2C%22accentColor%22%3A%22%230366d6%22%2C%22borderColor%22%3A%22%23FFFFFF%22%2C%22waterColor%22%3A%22%230366d6%22%2C%22streakColor%22%3A%22%230366d6%22%2C%22circleBackground%22%3A%22%2300000000%22%7D" alt="GitHub Streak Stats">
+</div>
+
+<div align="center">
+  <a href="https://github.com/JoaoPHS/">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=JoaoPHS&bg_color=transparent&hide_border=true&custom_title=JoaoPHS%20Contribution%20Graph&area=true&area_color=0366d6&title_color=ffffff&line=0366d6&point=0366d6&color=ffffff" width="800" title="Contribution Graph">
+  </a>
 </div>
 
 <div align="center" style="display: inline_block"><br>
