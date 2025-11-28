@@ -17,8 +17,83 @@
 <div align="center" width="100%">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&color=0F9BF7&width=435&center=true&lines=Be+Welcome!;I'm+a+Cybersecurity+Analyst;Specialist+in+Red+Team;and+Blue+Team+Operations" alt="Typing SVG"/>
 </div>
-      
+
+<h3 align="center"> IDEs </h1>
 <div align="center">
+  <p align="center">
+    <img width="40" src="https://img.icons8.com/?size=100&id=ezj3zaVtImPg&format=png&color=000000" />
+    <img width="40" src="https://img.icons8.com/?size=100&id=0OQR1FYCuA9f&format=png&color=000000" />
+    <img width="40" src="https://img.icons8.com/?size=100&id=rPAHs7H1vriV&format=png&color=000000" />
+    <img width="40" src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Android_Studio_icon_%282023%29.svg" />
+  </p>
+
+<h3 align="center"> Skills (Specialties) </h1>
+
+<div align="center">
+  <p align="center">
+    <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+    <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+    <img width="40" src="https://img.icons8.com/?size=100&id=7I3BjCqe9rjG&format=png&color=000000" />
+    <img width="40" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" />
+    <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+  </p>
+
+<h3 align="center"> Databases </h1>
+
+<div align="center">
+  <p align="center">
+    <img width="40" src="https://files.svgcdn.io/logos/mysql.svg" />
+    <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+    <img width="40" src="https://img.icons8.com/?size=100&id=87330&format=png&color=000000" />
+  </p>
+
+<h3 align="center"> Tools </h1>
+
+<div align="center">
+  <p align="center">
+    <img width="40" src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Wireshark_icon_new.png" />
+    <img width="40" src="https://img.icons8.com/?size=100&id=9b5wowKIlo9d&format=png&color=000000" />
+    <img width="40" src="https://upload.wikimedia.org/wikipedia/commons/f/f6/Ghidra_logo.svg" />
+    <img width="40" src="https://files.svgcdn.io/logos/zabbix.svg" />
+  </p>
+
+<h3 align="center"> OS </h1>
+
+<div align="center">
+  <p align="center">
+    <img width="40" src="https://files.svgcdn.io/devicon/kalilinux.svg" />
+    <img width="40" src="https://img.icons8.com/?size=100&id=sA3Bx9WPvcNg&format=png&color=000000" />
+    <img width="40" src="https://img.icons8.com/?size=100&id=63208&format=png&color=000000" />
+    <img width="40" src="https://img.icons8.com/?size=100&id=17838&format=png&color=000000" />
+    <img width="40" src="https://files.svgcdn.io/devicon/windows8.svg" />
+  </p>
+
+<h3 align="center"> Hardware </h1>
+
+<div align="center">
+  <p align="center">
+    <img width="40" src="https://files.svgcdn.io/logos/raspberry-pi.svg" />
+    <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" />
+  </p>
+
+<h3 align="center"> Productivity and Editors </h1>
+
+<div align="center">
+  <p align="center">
+    <img width="40" src="https://img.icons8.com/?size=100&id=nvtEH6DpqruC&format=png&color=000000" />
+    <img width="40" src="https://img.icons8.com/?size=100&id=6RHskkZGRABM&format=png&color=000000" />
+    <img width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Vimlogo.svg" />
+  </p>
+
+<h3 align="center"> Git </h1>
+
+<div align="center">
+  <p align="center">
+    <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+    <img width="40" src="https://img.icons8.com/?size=100&id=52539&format=png&color=000000" />
+    <img width="40" src="https://img.icons8.com/?size=100&id=34886&format=png&color=000000" />
+  </p>
+  
   <img height=180 align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=JoaoPHS&show_icons=true&count_private=true&rank_icon=github&text_color=ffffff&theme=transparent&cache_seconds=1&font=Iosevka"/>
   
   <img height=180 align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPHS&layout=compact&font=Iosevka&langs_count=16&text_color=FFFFFF&theme=transparent&cache_seconds=1"/>
@@ -36,24 +111,6 @@
   <a href="https://github.com/JoaoPHS/">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=JoaoPHS&bg_color=transparent&hide_border=true&custom_title=JoaoPHS%20Contribution%20Graph&area=true&area_color=0366d6&title_color=ffffff&line=0366d6&point=0366d6&color=ffffff" width="800" title="Contribution Graph">
   </a>
-</div>
-
-<div align="center" style="display: inline_block"><br>
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
-  <img width="40" src="https://files.svgcdn.io/flat-color-icons/linux.svg" />
-  <img width="40" src="https://files.svgcdn.io/devicon/windows8.svg" />
-  <img width="40" src="https://files.svgcdn.io/logos/debian.svg" />
-  <img width="40" src="https://files.svgcdn.io/logos/mysql.svg" />
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" />
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-  <img width="40" src="https://files.svgcdn.io/logos/zabbix.svg" />
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-  <img width="40" src="https://files.svgcdn.io/devicon/kalilinux.svg" />
-  <img width="40" src="https://files.svgcdn.io/logos/raspberry-pi.svg" />
-
-  
 </div>
 
 <br>
