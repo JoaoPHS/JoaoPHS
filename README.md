@@ -81,7 +81,7 @@
 <div align="center">
   <p align="center">
     <img width="40" src="https://github.com/LelouchFR/skill-icons/blob/main/assets/postman.svg" />
-    <img width="40" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" />
+    <img width="37" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" />
     <img width="40" src="https://img.icons8.com/?size=100&id=nvtEH6DpqruC&format=png&color=000000" />
     <img width="40" src="https://img.icons8.com/?size=100&id=6RHskkZGRABM&format=png&color=000000" />
     <img width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Vimlogo.svg" />
