@@ -96,12 +96,12 @@
     <img width="40" src="https://img.icons8.com/?size=100&id=34886&format=png&color=000000" />
   </p>
   
-  <img height=180 align="center" alt="GitHub Stats" src="https://github-readme-stats-6mlq.vercel.app/api/?username=JoaoPHS&show_icons=true&count_private=true&rank_icon=github&text_color=ffffff&theme=transparent&font=Iosevka&cache_seconds=100&v=1"/>
+  <img height=180 align="center" alt="GitHub Stats" src="https://github-readme-stats-6mlq.vercel.app/api/?username=JoaoPHS&show_icons=true&count_private=true&rank_icon=github&text_color=ffffff&theme=transparent&font=Iosevka&v=1"/>
   
-  <img height=180 align="center" alt="Top Language" src="https://github-readme-stats-6mlq.vercel.app/api/top-langs/?username=JoaoPHS&layout=compact&font=Iosevka&langs_count=16&text_color=FFFFFF&theme=transparent&cache_seconds=100&v=1"/>
+  <img height=180 align="center" alt="Top Language" src="https://github-readme-stats-6mlq.vercel.app/api/top-langs/?username=JoaoPHS&layout=compact&font=Iosevka&langs_count=16&text_color=FFFFFF&theme=transparent&v=1"/>
   <br>
   <br>
-  <img align="center" alt="Top Language" src="https://github-readme-stats-6mlq.vercel.app/api?username=JoaoPHS&show_icons=true&hide=contribs,prs&text_color=FFFFFF&theme=transparent&cache_seconds=100&v=1"/>
+  <img align="center" alt="Top Language" src="https://github-readme-stats-6mlq.vercel.app/api?username=JoaoPHS&show_icons=true&hide=contribs,prs&text_color=FFFFFF&theme=transparent&v=1"/>
 </div>
 
 <br>
