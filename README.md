@@ -21,7 +21,7 @@
 <h3 align="center"> IDEs </h1>
 <div align="center">
   <p align="center">
-    <img width="40" src="https://img.icons8.com/?size=100&id=ezj3zaVtImPg&format=png&color=000000" />
+    <img width="41" src="https://img.icons8.com/?size=100&id=ezj3zaVtImPg&format=png&color=000000" />
     <img width="40" src="https://img.icons8.com/?size=100&id=0OQR1FYCuA9f&format=png&color=000000" />
     <img width="40" src="https://img.icons8.com/?size=100&id=rPAHs7H1vriV&format=png&color=000000" />
     <img width="40" src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Android_Studio_icon_%282023%29.svg" />
@@ -31,7 +31,7 @@
 
 <div align="center">
   <p align="center">
-    <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+    <img width="4" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
     <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
     <img width="40" src="https://img.icons8.com/?size=100&id=7I3BjCqe9rjG&format=png&color=000000" />
     <img width="40" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" />
