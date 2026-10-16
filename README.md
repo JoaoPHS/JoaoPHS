@@ -15,7 +15,7 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/JoaoPHS/JoaoPHS/main/assets/terminal.gif" alt="terminal" width="720"/>
+  <img src="https://cdn.jsdelivr.net/gh/JoaoPHS/JoaoPHS@c04234a4f8c426812ab77e7673ce464385c1f1ed/assets/terminal.gif" alt="terminal" width="720"/>
 </div>
 
 <div align="center">
