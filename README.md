@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,50:0F9BF7,100:ff2bd6&height=160&section=header&animation=twinkling&stroke=ff2bd6&strokeWidth=2" alt="animated header" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,45:00E5FF,100:00FF9C&height=160&section=header&animation=twinkling&stroke=00FF9C&strokeWidth=2" alt="animated header" width="100%"/>
 </div>
 
 <div align="center">
@@ -13,11 +13,11 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&color=0F9BF7&width=520&center=true&lines=Be+Welcome!;I'm+a+Cybersecurity+Analyst;Specialist+in+Red+Team;and+Blue+Team+Operations" alt="Typing SVG"/>
   <br>
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&pause=700&color=FF2BD6&width=520&center=true&lines=Wireshark+is+listening...;Ghidra+is+reversing...;Kali+is+ready...;Blue+team+holding+the+line" alt="Status line"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&pause=700&color=00FF9C&width=520&center=true&lines=Wireshark+is+listening...;Ghidra+is+reversing...;Kali+is+ready...;Blue+team+holding+the+line" alt="Status line"/>
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff2bd6,100:0F9BF7&height=70&section=header&animation=twinkling" alt="" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF9C,100:00E5FF&height=70&section=header&animation=twinkling" alt="" width="100%"/>
 </div>
 
 <h3 align="center">IDEs</h3>
@@ -100,17 +100,17 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F9BF7,100:ff2bd6&height=70&section=header&animation=twinkling" alt="" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,100:00FF9C&height=70&section=header&animation=twinkling" alt="" width="100%"/>
   <br>
-  <img height="180" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=JoaoPHS&show_icons=true&rank_icon=github&theme=synthwave&hide_border=true&font=Iosevka"/>
-  <img height="180" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPHS&layout=compact&langs_count=8&theme=synthwave&hide_border=true&font=Iosevka"/>
+  <img height="180" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=JoaoPHS&show_icons=true&rank_icon=github&bg_color=000000&title_color=00FF9C&text_color=D7FFF2&icon_color=00E5FF&border_color=00E5FF&font=Iosevka"/>
+  <img height="180" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPHS&layout=compact&langs_count=8&bg_color=000000&title_color=00FF9C&text_color=D7FFF2&border_color=00E5FF&font=Iosevka"/>
   <br>
-  <img alt="GitHub Stats compact" src="https://github-readme-stats.vercel.app/api?username=JoaoPHS&show_icons=true&hide=contribs,prs&theme=synthwave&hide_border=true"/>
+  <img alt="GitHub Stats compact" src="https://github-readme-stats.vercel.app/api?username=JoaoPHS&show_icons=true&hide=contribs,prs&bg_color=000000&title_color=00FF9C&text_color=D7FFF2&icon_color=00E5FF&border_color=00E5FF"/>
 </div>
 
 <br>
 <div align="center">
-  <img src="https://v0-git-hub-streak-score-card-phi.vercel.app/api/card-with-avatar?username=JoaoPHS&theme=%7B%22backgroundColor%22%3A%22%2300000000%22%2C%22textColor%22%3A%22%23FFFFFF%22%2C%22accentColor%22%3A%22%230366d6%22%2C%22borderColor%22%3A%22%23FFFFFF%22%2C%22waterColor%22%3A%22%230366d6%22%2C%22streakColor%22%3A%22%230366d6%22%2C%22circleBackground%22%3A%22%2300000000%22%7D" alt="GitHub Streak Stats">
+  <img src="https://v0-git-hub-streak-score-card-phi.vercel.app/api/card-with-avatar?username=JoaoPHS&theme=%7B%22backgroundColor%22%3A%22%23000000%22%2C%22textColor%22%3A%22%23D7FFF2%22%2C%22accentColor%22%3A%22%2300FF9C%22%2C%22borderColor%22%3A%22%2300E5FF%22%2C%22waterColor%22%3A%22%2300E5FF%22%2C%22streakColor%22%3A%22%2300FF9C%22%2C%22circleBackground%22%3A%22%23000000%22%7D" alt="GitHub Streak Stats">
 </div>
 
 <div align="center">
@@ -134,6 +134,6 @@
 </details>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff2bd6,50:0F9BF7,100:0d0221&height=120&section=footer&animation=twinkling" alt="animated footer" width="100%"/>
-  <img src="https://komarev.com/ghpvc/?username=JoaoPHS&style=flat-square&color=0F9BF7" alt="profile views"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:00FF9C,100:000000&height=120&section=footer&animation=twinkling" alt="animated footer" width="100%"/>
+  <img src="https://komarev.com/ghpvc/?username=JoaoPHS&style=flat-square&color=00FF9C" alt="profile views"/>
 </div>

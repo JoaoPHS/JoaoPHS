@@ -22,7 +22,7 @@ jobs:
           github_user_name: JoaoPHS
           outputs: |
             dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark&color_snake=#0F9BF7&color_dots=#0d1117,#161b22,#0F9BF7,#58a6ff
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=#00FF9C&color_dots=#000000,#06281c,#00E5FF,#00FF9C
       - uses: crazy-max/ghaction-github-pages@1d6ee9b181a81033a16bd707a1401afa978daab4 # v5.0.0
         with:
           target_branch: output
