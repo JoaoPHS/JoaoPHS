@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,70:031a0c,100:00FF9C&height=160&section=header&animation=twinkling&stroke=00FF9C&strokeWidth=2" alt="animated header" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF9C&height=160&section=header" alt="animated header" width="100%"/>
 </div>
 
 <div align="center">
@@ -15,11 +15,11 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/JoaoPHS/JoaoPHS/main/assets/terminal.svg" alt="terminal" width="760"/>
+  <img src="https://raw.githubusercontent.com/JoaoPHS/JoaoPHS/main/assets/terminal.gif" alt="terminal" width="720"/>
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00FF9C&height=70&section=header&animation=twinkling" alt="" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF9C&height=70&section=header" alt="" width="100%"/>
 </div>
 
 <h3 align="center">IDEs</h3>
@@ -102,7 +102,7 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF9C,100:031a0c&height=70&section=header&animation=twinkling" alt="" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF9C&height=70&section=header" alt="" width="100%"/>
   <br>
   <img height="180" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=JoaoPHS&show_icons=true&rank_icon=github&bg_color=000000&title_color=00E5FF&text_color=C8FBFF&icon_color=00E5FF&border_color=00E5FF&font=Iosevka"/>
   <img height="180" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPHS&layout=compact&langs_count=8&bg_color=000000&title_color=00E5FF&text_color=C8FBFF&border_color=00E5FF&font=Iosevka"/>
@@ -136,6 +136,6 @@
 </details>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF9C,100:000000&height=120&section=footer&animation=twinkling" alt="animated footer" width="100%"/>
-  <img src="https://komarev.com/ghpvc/?username=JoaoPHS&style=flat-square&color=00E5FF" alt="profile views"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF9C&height=120&section=footer" alt="animated footer" width="100%"/>
+  <img src="https://komarev.com/ghpvc/?username=JoaoPHS&style=flat-square&color=0F9BF7" alt="profile views"/>
 </div>
