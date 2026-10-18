@@ -15,7 +15,7 @@
 </div>
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/JoaoPHS/JoaoPHS@b8162db5e6197851d2f2116191cff62220f431d7/assets/terminal.gif" alt="terminal" width="720"/>
+  <img src="./assets/terminal.gif" alt="terminal" width="720"/>
 </div>
 
 <div align="center">
@@ -137,5 +137,5 @@
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF9C&height=120&section=footer" alt="animated footer" width="100%"/>
-  <img src="https://komarev.com/ghpvc/?username=JoaoPHS&style=flat-square&color=0F9BF7" alt="profile views"/>
+  <img src="https://hits.sh/github.com/JoaoPHS.svg?style=flat-square&label=Profile%20Views&color=00e5ff&labelColor=000000" alt="profile views"/>
 </div>
