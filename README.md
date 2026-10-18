@@ -11,7 +11,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&color=00E5FF&width=520&center=true&lines=Be+Welcome!;I'm+a+Cybersecurity+Analyst;Specialist+in+Red+Team;and+Blue+Team+Operations" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira&size=25&pause=1000&color=00E5FF&width=520&center=true&lines=AI+Agents+%26+Cyber+Security" alt="Typing SVG"/>
 </div>
 
 <div align="center">
