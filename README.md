@@ -18,6 +18,8 @@
   <img src="./assets/terminal.gif" alt="terminal" width="720"/>
 </div>
 
+<br/>
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF9C&height=70&section=header" alt="" width="100%"/>
 </div>
